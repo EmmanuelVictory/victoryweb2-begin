@@ -1,0 +1,7 @@
+div.absolute {
+  border-radius: 3px;
+  position: relative;
+
+  background-color: rgb(6, 90, 62);
+  color: black;
+}
